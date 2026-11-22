@@ -3,10 +3,10 @@ import { ContractAuditResult } from "./types";
 import { generateHeuristicAudit } from "./heuristics";
 
 const DEFAULT_MODELS = [
+  "gemini-3.8-flash",
   process.env.GEMINI_MODEL || "gemini-3.8-flash",
   "gemini-2.5-flash",
   "gemini-2.0-flash",
-  "gemini-1.5-flash",
 ];
 
 const SYSTEM_AUDIT_PROMPT = `You are ClauseGuard AI, an elite contract attorney and risk auditor specializing in identifying predatory clauses, hidden legal traps, liability exposure, and asymmetric agreements.
