@@ -1,11 +1,14 @@
 # ClauseGuard AI 🛡️
 > **Intelligent Contract Risk & Predatory Clause Auditor powered by Google Gemini Flash**
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-clauseguard--six--iota.vercel.app-success?style=for-the-badge&logo=vercel)](https://clauseguard-six-iota.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![Gemini Flash](https://img.shields.io/badge/LLM-Gemini%20Flash%20(3.8%20%2F%202.5)-8E75C4?style=flat&logo=google)](https://ai.google.dev/)
-[![Vercel Ready](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat&logo=vercel)](https://vercel.com/)
+[![Vercel Ready](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat&logo=vercel)](https://clauseguard-six-iota.vercel.app)
+
+**🌐 Live Production Deployment**: [https://clauseguard-six-iota.vercel.app](https://clauseguard-six-iota.vercel.app)
 
 ---
 
